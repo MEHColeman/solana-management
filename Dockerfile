@@ -9,4 +9,10 @@ RUN apt install -y pkg-config libssl-dev libudev-dev
 
 RUN /root/.cargo/bin/cargo install spl-token-cli
 
+WORKDIR /root
+COPY pay .
+COPY earn .
+COPY recover_keys .
+COPY balance .
+
 SHELL ["/bin/sh", "-c"]

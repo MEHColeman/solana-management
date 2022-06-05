@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "Solana Balance:"
+solana balance
+
+echo "Token Balances"
+spl-token accounts

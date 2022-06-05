@@ -1,0 +1,3 @@
+#!/bin/sh
+
+solana-keygen recover --force prompt://

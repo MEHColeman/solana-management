@@ -19,3 +19,10 @@ Commands to build and run the docker image are saved in the Makefile.
 
 You can buy Pocket tokens yourself, or create your own cryptocurrency using the
 Solana SPL CLI.
+
+## Tools
+For ease of use, there are four executables
+```pay <amount>``` to send SOL to my SOL address
+```earn <amount>``` to send Pocket tokens to my test address
+```balance``` to display SOL and token balances
+```recover_keys``` to regenerate local keys when restarting the docker instance. You'll need the passphrase information
