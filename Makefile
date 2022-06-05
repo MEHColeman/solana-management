@@ -4,4 +4,3 @@ build:
 
 run:
 	docker run --rm -it solana sh -l
-
