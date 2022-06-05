@@ -4,7 +4,8 @@
 easy, electronic pocket money.
 
 Use it as pocket money for your kids, or a motivational tool for yourself! Give
-yourself 20 pockets when you go to the gym; spend 30 pockets when you
+yourself 20 pockets when you go to the gym; spend 30 pockets when you buy that
+box of donuts!
 
 Solana provides an incredibly easy, fast and (adequately) reliable platform for
 transactions, which makes using Pocket money fun and easy.
