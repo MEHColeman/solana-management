@@ -15,7 +15,8 @@ container specified here No volumes are mounted, so the private keys are not
 permanently stored. You can recover the keys using your seedphrase each time
 you run the container
 
-Commands to build and run the docker image are saved in the Makefile.
+Commands to build and run the docker image are saved in the Makefile. Use
+```make build``` and ```make run```
 
 You can buy Pocket tokens yourself, or create your own cryptocurrency using the
 Solana SPL CLI.
