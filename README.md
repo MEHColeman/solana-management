@@ -11,9 +11,10 @@ Solana provides an incredibly easy, fast and (adequately) reliable platform for
 transactions, which makes using Pocket money fun and easy.
 
 You can create and manage your Solana tokens and wallets inside the docker
-container specified here No volumes are mounted, so the private keys are not
-permanently stored. You can recover the keys using your seedphrase each time
-you run the container
+image specified here. That's all this docker image is for.
+
+No volumes are mounted, so the private keys are not permanently stored. You can
+recover the keys using your seedphrase each time you run the container.
 
 Commands to build and run the docker image are saved in the Makefile. Use
 ```make build``` and ```make run```
